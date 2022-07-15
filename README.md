@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Sunidhi
+- 👀 interested in coding
+- 🌱 always learning
+- 💞️ looking to collaborate on developing and debugging.
